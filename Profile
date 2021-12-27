@@ -1,1 +1,1 @@
-web: ROCKET_ENV=$PORT ROCKET_ENV=prod ./target/release/circux
+web: ./target/release/circux
