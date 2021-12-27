@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/xi6th/Documents/In Progress/100 Days of Coding/day1/circus/target/release/build/typenum-3c85b2d504dc70fb/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/xi6th/Documents/In Progress/100 Days of Coding/day1/circus/target/release/build/typenum-3c85b2d504dc70fb/out/op.rs
