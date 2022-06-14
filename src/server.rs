@@ -8,7 +8,7 @@ pub async fn server() -> std::io::Result<()> {
     env_logger::init();
     // Get the port number to listen on.
     let port = env::var("PORT")
-        .unwrap_or_else(|_| "3000".to_string())
+        .unwrap_or_else(|_| "8000".to_string())
         .parse()
         .expect("PORT must be a number");
 
