@@ -15,9 +15,9 @@
 
 ### Welcome Builders!
 
-**Zus Health is a shared health data platform designed to accelerate healthcare data interoperability by surfacing actionable patient data directly at the point of care.**** **
+Zus Health is a shared health data platform designed to accelerate healthcare data interoperability by surfacing actionable patient data directly at the point of care.** **
 
-The goal of this documentation is to introduce you to the various parts of the Zus platform and walk you through how to integrate Zus into your care workflows.
+The goal of this documentation is to *introduce you to the various parts of the Zus platform* and walk you through how to integrate Zus into your care workflows.
 
 Feel free to** ** [ signup](google.com)   and follow along with our guide.
 
